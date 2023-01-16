@@ -1,0 +1,174 @@
+[
+    {
+        "id": "01",
+        "question" : "MIDI was developed in ___ year.",
+        "options": [
+            "1982",
+            "1956",
+            "1995",
+            "1958"
+        ],
+        "answer": "1982"
+    },
+    {
+        "id": "02",
+        "question" : "Whats is multimedia file?",
+        "options": [
+            "is same as any other regular file",
+            "must be accessed at specific rate",
+            "stored on remote server can not be delivered to its client",
+            "none of the mentioned"
+        ],
+        "answer": "must be accessed at specific rate"
+    },
+    {
+        "id": "03",
+        "question" : "In which type of streaming multimedia file is delivered to the client, but not shared?",
+        "options": [
+            "real-time streaming",
+            "progressive download",
+            "compression",
+            "none of the mentioned"
+        ],
+        "answer": "real-time streaming"
+    },
+    {
+        "id": "04",
+        "question" : "Which one of the following is the characteristic of a multimedia system?",
+        "options": [
+            "high storage",
+            "high data rates",
+            "both high storage and high data rates",
+            "None of the above"
+        ],
+        "answer": "both high storage and high data rates"
+    },
+    {
+        "id": "05",
+        "question" : "In teardown state of real time streaming protocol is ___________",
+        "options": [
+            "the server resources for client",
+            "server delivers the stream to client",
+            "server suspends delivery of stream",
+            "server breaks down the connection"
+        ],
+        "answer": "server breaks down the connection"
+    },
+    {
+        "id": "06",
+        "question" : "Multimedia system require hard real time scheduling ___________",
+        "options": [
+            "to ensure critical tasks will be serviced within timing deadlines",
+            "to deliver the media file to the client",
+            "to minimize the delay",
+            "for security"
+        ],
+        "answer": "to ensure critical tasks will be serviced within timing deadlines"
+    },
+    {
+        "id": "07",
+        "question" : "A smaller version of an image is called a:",
+        "options": [
+            "Clipart",
+            "Bitmap",
+            "Portable Network Graphic",
+            "Thumbnail"
+        ],
+        "answer": "Thumbnail"
+    },
+    {
+        "id": "08",
+        "question" : "______________ is the special effect used to introduce each slide in a slide presentation.",
+        "options": [
+            "Animation",
+            "Bulleting",
+            "Transition",
+            "Mapping"
+        ],
+        "answer": "Transition"
+    },
+    {
+        "id": "09",
+        "question" : "A video consists of a sequence of",
+        "options": [
+            "Frames",
+            "Signals",
+            "Packets",
+            "Slots"
+        ],
+        "answer": "Frames"
+    },
+    {
+        "id": "10",
+        "question" : "Moving Picture Experts Group (MPEG) is used to compress",
+        "options": [
+            "Frames",
+            "Images",
+            "Audio",
+            "Video"
+        ],
+        "answer": "Video"
+    },
+    {
+        "id": "11",
+        "question" : "One of the disadvantages of multimedia is",
+        "options": [
+            "cost",
+            "adaptability",
+            "usability",
+            "relativity"
+        ],
+        "answer": "cost"
+    }
+,{
+    "id": "12",
+    "question" : "Multimedia is also used for ___ communications and presentations",
+    "options": [
+        "Corporate",
+        "Company",
+        "Communal",
+        "Commercial"
+    ],
+    "answer": "Corporate"
+}
+
+,{
+    "id": "13",
+    "question" : "Multimedia is widely used to add special ____ to moviesr",
+    "options": [
+        "arrangement",
+        "attachments",
+        "control",
+        "effects"
+    ],
+    "answer": "effects"
+}
+
+,{
+    "id": "14",
+    "question" : "The ___ input addresses the different styles of different users",
+    "options": [
+        "Multi-sense",
+        "Multimedia",
+        "Multi-facet",
+        "Multi-sensory"
+    ],
+    "answer": "Multi-sensory"
+}
+,{
+    "id": "15",
+    "question" : "The shockwave format was developed by",
+    "options": [
+        "IBM",
+        "Apple",
+        "Macromedia",
+        "Microsoft"
+    ],
+    "answer": "Macromedia"
+}
+
+
+
+   
+
+]
