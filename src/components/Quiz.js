@@ -1,5 +1,5 @@
 import React from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 const Quiz = ({ showQuiz, question, quizs, checkAnswer, correctAnswer, selectedAnswer, questionIndex, nextQuestion, showTheResult }) => {
 
